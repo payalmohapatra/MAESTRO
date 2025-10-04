@@ -4,8 +4,7 @@
   <img src="housekeep/nips_logo.png" alt="NeurIPS Logo" 
        height="70" style="margin-right: 16px; flex-shrink: 0;">
   <h1 style="margin: 0; font-size: 1.8em; overflow: hidden; text-overflow: ellipsis;">
-    MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series 
-    <span style="font-size: 0.8em;">🌟NeurIPS 2025 (Spotlight)</span>
+    MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series
   </h1>
 </div>
 
