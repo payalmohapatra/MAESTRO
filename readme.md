@@ -115,6 +115,7 @@ Suggested citation:
    author={Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, Qi Zhu},
    booktitle={NeurIPS},
    year={2025},
+   note={Spotlight}
 }
 ```
 
