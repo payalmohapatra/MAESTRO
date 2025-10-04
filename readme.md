@@ -1,10 +1,16 @@
 <!-- Header with ACL logo and title -->
-<div style="max-width: 960px; margin: auto; padding-top: 20px; display: flex; align-items: center;">
-  <img src="housekeep/nips_logo.png" alt="NIPs Logo" height="70" style="margin-right: 16px;">
-  <div>
-    <h1 style="margin: 0; font-size: 1.8em;">MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series</h1>
-  </div>
+<div style="max-width: 960px; margin: auto; padding-top: 20px; 
+            display: flex; align-items: center; white-space: nowrap;">
+  <img src="housekeep/nips_logo.png" alt="NeurIPS Logo" 
+       height="70" style="margin-right: 16px; flex-shrink: 0;">
+  <h1 style="margin: 0; font-size: 1.8em; overflow: hidden; text-overflow: ellipsis;">
+    MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series 
+    <span style="font-size: 0.8em;">🌟NeurIPS 2025 (Spotlight)</span>
+  </h1>
 </div>
+
+
+
 
 
 
@@ -114,8 +120,7 @@ Suggested citation:
    title={MAESTRO: Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series},
    author={Payal Mohapatra, Yueyuan Sui, Akash Pandey, Stephen Xia, Qi Zhu},
    booktitle={NeurIPS},
-   year={2025},
-   note={Spotlight}
+   year={2025}
 }
 ```
 
