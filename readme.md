@@ -64,7 +64,7 @@ Processed versions used in this repository (shared): https://zenodo.org/records/
 
 - MIMIC (restricted access)
    - Follow the official MIMIC access procedure: https://mimic.mit.edu/iv/access/
-   - After obtaining access, contact the dataset maintainer (see original README) with proof to obtain the preprocessed `im.pk` file used by the experiments.
+   - After obtaining access, contact the dataset maintainer of [Multibench](https://github.com/pliang279/MultiBench) (see original README) with proof to obtain the preprocessed `im.pk` file used by the experiments.
 
 
 
